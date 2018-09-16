@@ -1,0 +1,11 @@
+Flask
+mysqlclient
+Flask-Script
+Flask-Assets
+Flask-SQLAlchemy
+uwsgi
+flask-debugtoolbar
+requests
+BeautifulSoup4
+sqlacodegen
+flask-sqlacodegen
