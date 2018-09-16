@@ -8,7 +8,7 @@
 * 启动web服务
     * export ops_config="local|production" && python manage.py runserver
 * 启动Job
-    * export ops_config="local|production" && python manage.py runjob -m weather/index
+    * export ops_config="local|production" && python manage.py runjob -m test
 
 
 
